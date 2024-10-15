@@ -1,4 +1,4 @@
-pip install --upgrade pip
+pip
 langchain_core==0.3.10
 langchain_google_genai==2.0.1
 Pillow==11.0.0
